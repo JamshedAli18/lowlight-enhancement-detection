@@ -1,0 +1,14 @@
+# enhance.py (CPU)
+opencv-python
+numpy
+onnxruntime>=1.20
+# notebook (Google Colab, T4 GPU)
+torch
+torchvision
+torchmetrics
+pycocotools
+scikit-image
+scipy
+matplotlib
+gdown
+onnx
